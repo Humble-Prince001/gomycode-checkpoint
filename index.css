@@ -1,0 +1,12 @@
+#listings ul{
+    display: flex;
+    display: inline;
+    margin: 20px;
+    }
+
+    #listings ul li {
+        margin: 20px;
+        list-style: none;
+        text-decoration: none;
+    }
+
